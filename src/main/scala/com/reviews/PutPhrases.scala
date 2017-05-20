@@ -15,16 +15,18 @@ object PutPhrases extends App {
 
   val query = new BasicDBObject()
   val fields = new BasicDBObject()
-  for (field <- List("review_id","sentences.sentiment","sentences.phrases")) query.put(field, new BasicDBObject("$exists", true))
+  for (field <- List("review_id","sentences.sentiment")) query.put(field, new BasicDBObject("$exists", true))
   query.put("proc_phrase", new BasicDBObject("$exists", false))
+
   for (field <- List("_id,","review_id","user_id","business_id","sentences","stars")) fields.put(field, 1)
   val docCount = review.find(query, fields).count()
   var docProc = 0
   val batchsize = 500
 
   while(docProc <= docCount) {
-    val queryResult: scala.collection.parallel.immutable.ParSeq[DBObject] = review.find(query, fields).limit(batchsize).toArray().toList.par
-
+    val skipValue = batchsize + (Math.random * ((30000 - batchsize) + 1)).asInstanceOf[Int]
+    println("Skipping " + skipValue + " values")
+    val queryResult: scala.collection.parallel.immutable.ParSeq[DBObject] = review.find(query, fields).skip(skipValue).limit(batchsize).toArray().toList.par
     for (dBObject <- queryResult) {
       val mongoId = dBObject.as[ObjectId]("_id")
       val rev_id = dBObject.as[String]("review_id")
@@ -34,12 +36,9 @@ object PutPhrases extends App {
       val user_id = dBObject.as[String]("user_id")
 
       for (i <- 0 to sentences.length - 1) {
-        println(i)
         val polarity = Try(sentences(i).as[String]("sentiment")).toOption.getOrElse("")
         val opinions = sentences(i).as[List[String]]("phrases")
-        println("Opinions: " + opinions.toString())
-        println(sentences(i).as[String]("phrases"))
-        println(!polarity.isEmpty & !opinions.isEmpty)
+        //println("Polarity: " + polarity + ", " + opinions.toString())
         if (!polarity.isEmpty && !opinions.isEmpty) {
           for (phrase <- opinions) {
             val aspSent = phrase.split(" -> ")
