@@ -2,9 +2,12 @@ package com.reviews
 
 import com.mongodb.BasicDBObject
 import com.mongodb.casbah.Imports._
-import scala.collection.JavaConversions._
-import scala.collection.immutable._
 
+import scala.collection.JavaConversions._
+import scala.collection.JavaConverters._
+import scala.collection.immutable._
+import scala.collection.mutable.ListBuffer
+import scala.collection.parallel.ParSeq
 import scala.util.Try
 
 object PutPhrases extends App {
@@ -25,32 +28,39 @@ object PutPhrases extends App {
 
   while(docProc <= docCount) {
     val skipValue = batchsize + (Math.random * ((30000 - batchsize) + 1)).asInstanceOf[Int]
-    println("Skipping " + skipValue + " values")
-    val queryResult: scala.collection.parallel.immutable.ParSeq[DBObject] = review.find(query, fields).skip(skipValue).limit(batchsize).toArray().toList.par
+    val queryResult: ParSeq[DBObject] = review.find(query, fields).skip(skipValue).limit(batchsize).toArray().toList.par
+    val phraseList: ListBuffer[DBObject] = ListBuffer()
+    val idsList: ListBuffer[ObjectId] = ListBuffer()
+
     for (dBObject <- queryResult) {
       val mongoId = dBObject.as[ObjectId]("_id")
       val rev_id = dBObject.as[String]("review_id")
       val business_id = dBObject.as[String]("business_id")
       val rating = dBObject.as[Int]("stars")
-      val sentences = dBObject.as[List[DBObject]]("sentences")
+      val sentences = dBObject.as[List[DBObject]]("sentences").par
       val user_id = dBObject.as[String]("user_id")
+      idsList += mongoId
 
-      for (i <- 0 to sentences.length - 1) {
+      for (i <- 0 until sentences.length) {
         val polarity = Try(sentences(i).as[String]("sentiment")).toOption.getOrElse("")
         val opinions = sentences(i).as[List[String]]("phrases")
-        //println("Polarity: " + polarity + ", " + opinions.toString())
-        if (!polarity.isEmpty && !opinions.isEmpty) {
+        if (polarity.nonEmpty && opinions.nonEmpty) {
           for (phrase <- opinions) {
             val aspSent = phrase.split(" -> ")
-            val newPhrase = Phrase(rev_id, i, user_id, business_id, aspSent(0), aspSent(1), polarity, rating)
-            phrases.save(newPhrase.toDBObject())
-            updateStauts(mongoId)
-            println("Processed: " + rev_id )
+            val newPhrase = Phrase(rev_id, i, user_id, business_id, aspSent(0), aspSent(1), polarity, rating).toDBObject()
+            phraseList += newPhrase
           }
         }
       }
       docProc += 1
-      println(s"$docProc / $docCount")
+    }
+
+    if (phraseList.nonEmpty) {
+      phrases.insert(phraseList.toList.asJava)
+      println("Inserted " + phraseList.length + " phrases")
+      idsList.map(id => updateStauts(id))
+      println("Updated " + idsList.length + " ids" )
+      println("Processed: " + docProc + " / " + docCount + " documents")
     }
   }
 
