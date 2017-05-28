@@ -11,6 +11,8 @@ libraryDependencies ++= Seq(
   "org.clulab" % "processors-main_2.11" % "6.0.5",
   "org.clulab" % "processors-models_2.11" % "6.0.5",
   "com.jcraft" % "jsch" % "0.1.53",
-  "com.typesafe.play" % "play-json_2.11" % "2.6.0-M7"
+  "com.typesafe.play" % "play-json_2.11" % "2.6.0-M7",
+  "com.github.tototoshi" % "scala-csv_2.11" % "1.3.4",
+  "com.optimaize.languagedetector" % "language-detector" % "0.5"
 )
         

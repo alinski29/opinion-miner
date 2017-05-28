@@ -1,0 +1,11 @@
+{
+  "database": "yelp",
+  "collection" : "review",
+  "host" : "193.5.27.85",
+  "port" : 27017,
+  "local_host" : "127.0.0.1",
+  "local_port": 27017,
+  "ssh_user": "asecareanu",
+  "ssh_port": 4022,
+  "ssh_password": "kciom8QZPu4r"
+}
