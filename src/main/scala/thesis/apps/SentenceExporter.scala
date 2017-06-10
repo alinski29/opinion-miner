@@ -1,4 +1,4 @@
-package com.reviews
+package thesis
 
 import com.mongodb.{BasicDBObject, DBObject}
 

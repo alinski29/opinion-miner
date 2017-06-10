@@ -1,17 +1,17 @@
-package com.reviews
+package thesis
 
 import scala.collection.mutable
 import scala.collection.mutable.ListBuffer
 import java.io._
 
-case class TMPhrase(rev_id: String,
-                   sentence_id: String,
-                   user_id: String,
-                   aspect: String,
-                   sentiment: String,
-                   polarity: String)
+object AspectsExporter extends App {
 
-object PrepareTM extends App {
+  case class TMPhrase(rev_id: String,
+                      sentence_id: String,
+                      user_id: String,
+                      aspect: String,
+                      sentiment: String,
+                      polarity: String)
 
   val bufferedSource = io.Source.fromFile("src/main/resources/yelp.phrases.csv")
 
