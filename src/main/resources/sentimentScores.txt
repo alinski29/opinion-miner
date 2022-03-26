@@ -1,0 +1,1078 @@
+best, 4.71
+amazing, 4.64
+wonderful, 4.64
+impeccable, 4.64
+incredible, 4.62
+fantastic, 4.61
+phenomenal, 4.6
+outstanding, 4.59
+superb, 4.58
+informative, 4.56
+topnotch, 4.55
+excellent, 4.54
+terrific, 4.54
+hid, 4.52
+exquisite, 4.51
+perfect, 4.49
+breathtaking, 4.49
+exceptional, 4.48
+brilliant, 4.48
+magnificent, 4.48
+not pushy, 4.47
+talented, 4.46
+n't regret, 4.46
+great, 4.45
+delicious, 4.45
+delightful, 4.45
+stunning, 4.43
+genuine, 4.43
+extraordinary, 4.43
+gorgeous, 4.42
+tender, 4.42
+flawless, 4.42
+knowledgable, 4.41
+elegant, 4.41
+creative, 4.4
+refreshing, 4.39
+not nicer, 4.39
+recommend, 4.38
+loved, 4.38
+knowledgeable, 4.38
+refresh, 4.38
+energetic, 4.38
+upbeat, 4.37
+not beat, 4.37
+awesome, 4.36
+unique, 4.36
+immaculate, 4.36
+n't reviewed, 4.36
+not overpowering, 4.36
+intimate, 4.35
+delectable, 4.35
+unpretentious, 4.35
+not found, 4.35
+n't afraid, 4.35
+fabulous, 4.34
+charming, 4.34
+divine, 4.34
+favorite, 4.33
+beautiful, 4.33
+spectacular, 4.33
+kind, 4.33
+n't beat, 4.33
+stylish, 4.32
+n't nicer, 4.32
+love, 4.31
+professional, 4.31
+adorable, 4.31
+sophisticated, 4.31
+n't miss, 4.31
+lovely, 4.3
+honest, 4.3
+enjoyed, 4.29
+comfortable, 4.29
+sexy, 4.29
+magical, 4.29
+tasteful, 4.29
+sweetest, 4.29
+friendly, 4.28
+quaint, 4.28
+personable, 4.28
+soothing, 4.28
+not pretentious, 4.28
+entertaining, 4.27
+relax, 4.26
+relaxing, 4.26
+diverse, 4.26
+quality, 4.26
+n't resist, 4.25
+n't overpower, 4.25
+n't forget, 4.24
+fresh, 4.23
+reasonable, 4.23
+affordable, 4.23
+juicy, 4.23
+n't tried, 4.23
+quirky, 4.23
+not perfect, 4.23
+not overwhelming, 4.23
+n't pass, 4.23
+classy, 4.22
+memorable, 4.22
+lively, 4.22
+colorful, 4.22
+cozy, 4.21
+enjoyable, 4.21
+homey, 4.21
+calm, 4.21
+friendliest, 4.21
+n't break, 4.21
+not heavy, 4.21
+rich, 4.2
+romantic, 4.2
+savory, 4.2
+satisfying, 4.2
+wide, 4.19
+impressive, 4.19
+smooth, 4.19
+delicate, 4.19
+spotless, 4.19
+n't fancy, 4.19
+enjoy, 4.18
+flavorful, 4.18
+positive, 4.18
+subtle, 4.18
+contemporary, 4.18
+helpful, 4.17
+modern, 4.17
+efficient, 4.17
+scrumptious, 4.17
+peaceful, 4.17
+decadent, 4.17
+freshest, 4.17
+n't huge, 4.17
+n't overwhelming, 4.17
+discovered, 4.16
+gracious, 4.16
+cool, 4.15
+attentive, 4.15
+cute, 4.15
+neat, 4.15
+loves, 4.15
+timely, 4.15
+not greasy, 4.15
+not fancy, 4.15
+not huge, 4.15
+not miss, 4.15
+super, 4.14
+authentic, 4.14
+pleasant, 4.14
+satisfy, 4.14
+eclectic, 4.14
+satisfied, 4.14
+clean, 4.13
+happy, 4.13
+casual, 4.13
+patient, 4.13
+not loud, 4.13
+consistent, 4.12
+succulent, 4.12
+airy, 4.12
+intense, 4.12
+courteous, 4.11
+discover, 4.11
+moist, 4.1
+nicest, 4.1
+beaten, 4.1
+rustic, 4.1
+comfy, 4.1
+heavenly, 4.1
+unassuming, 4.1
+meaty, 4.1
+not tried, 4.1
+solid, 4.09
+funny, 4.09
+bold, 4.09
+n't found, 4.09
+not break, 4.09
+n't picked, 4.09
+generous, 4.08
+compliment, 4.08
+not love, 4.08
+tasty, 4.07
+crisp, 4.07
+recommended, 4.07
+worthy, 4.07
+n't greasy, 4.07
+homemade, 4.06
+speedy, 4.06
+reliable, 4.06
+greater, 4.06
+healthy, 4.05
+adore, 4.05
+humble, 4.05
+vintage, 4.05
+chic, 4.04
+loving, 4.04
+nice, 4.03
+worth, 4.03
+ideal, 4.03
+greatest, 4.03
+superior, 4.03
+varied, 4.03
+yummy, 4.02
+easy, 4.02
+n't had, 4.02
+cheerful, 4.02
+historic, 4.02
+not sweet, 4.02
+bright, 4.01
+delish, 4.01
+crave, 4.01
+enormous, 4.01
+customize, 4.01
+exciting, 4.01
+vast, 4.01
+not soggy, 4.01
+interesting, 4.0
+legit, 4.0
+not salty, 4.0
+good, 3.99
+quiet, 3.99
+organic, 3.99
+sparkling, 3.99
+n't loud, 3.99
+n't heavy, 3.99
+fair, 3.98
+enjoying, 3.98
+fluffy, 3.98
+urban, 3.98
+warm, 3.97
+prepared, 3.97
+mediterranean, 3.97
+hearty, 3.97
+mellow, 3.97
+outdoor, 3.96
+classic, 3.96
+spacious, 3.96
+natural, 3.96
+created, 3.96
+recommending, 3.96
+n't favorite, 3.96
+seasoned, 3.95
+n't perfect, 3.95
+sweet, 3.94
+fast, 3.94
+local, 3.94
+popular, 3.94
+extensive, 3.94
+overall, 3.94
+interior, 3.94
+wild, 3.94
+seasonal, 3.94
+smoky, 3.94
+tried, 3.94
+appreciated, 3.94
+culinary, 3.94
+darn, 3.94
+glad, 3.94
+not thick, 3.94
+creamy, 3.93
+create, 3.93
+inexpensive, 3.93
+buttery, 3.93
+flaky, 3.93
+ultimate, 3.93
+competitive, 3.93
+luxurious, 3.93
+n't spicy, 3.93
+funky, 3.92
+unbelievable, 3.92
+swanky, 3.92
+ample, 3.91
+n't large, 3.91
+not thin, 3.91
+quick, 3.9
+strong, 3.9
+secret, 3.9
+plentiful, 3.9
+flavourful, 3.9
+independent, 3.9
+n't sweet, 3.9
+trendy, 3.89
+tangy, 3.89
+attractive, 3.89
+n't go, 3.89
+stellar, 3.88
+grand, 3.88
+likes, 3.88
+win, 3.88
+unusual, 3.88
+expansive, 3.88
+not dry, 3.88
+n't extensive, 3.88
+n't soggy, 3.88
+top, 3.87
+starter, 3.87
+not extensive, 3.87
+n't salty, 3.87
+traditional, 3.86
+upscale, 3.86
+smart, 3.86
+expand, 3.86
+devour, 3.86
+huge, 3.85
+everyday, 3.85
+polite, 3.84
+not had, 3.84
+sharp, 3.84
+noteworthy, 3.84
+n't compare, 3.84
+simple, 3.83
+favourite, 3.83
+absolute, 3.83
+fit, 3.83
+keep, 3.83
+bustling, 3.83
+accessible, 3.83
+successful, 3.83
+dental, 3.82
+communal, 3.82
+not expensive, 3.82
+not fast, 3.82
+not shabby, 3.82
+crispy, 3.81
+rare, 3.81
+crunchy, 3.81
+industrial, 3.81
+golden, 3.81
+n't dry, 3.81
+n't thick, 3.81
+shared, 3.8
+blueberry, 3.8
+not big, 3.8
+formal, 3.8
+n't shabby, 3.8
+central, 3.79
+celebrate, 3.79
+not favorite, 3.79
+special, 3.78
+soft, 3.78
+competent, 3.78
+lighter, 3.78
+private, 3.77
+daily, 3.77
+indoor, 3.77
+share, 3.76
+convenient, 3.76
+tart, 3.76
+blended, 3.76
+n't love, 3.76
+notable, 3.76
+not crowd, 3.76
+not crowded, 3.76
+n't easy, 3.76
+massive, 3.75
+complementary, 3.75
+lucky, 3.75
+not large, 3.75
+weekly, 3.74
+n't big, 3.74
+not easy, 3.74
+n't let, 3.74
+n't crowded, 3.74
+safe, 3.73
+slight, 3.73
+little, 3.73
+not chewy, 3.73
+complimentary, 3.72
+vegetarian, 3.72
+experience, 3.72
+pretty, 3.72
+purple, 3.72
+south, 3.72
+underground, 3.72
+not spicy, 3.72
+n't imagine, 3.72
+n't strong, 3.72
+n't affect, 3.72
+real, 3.71
+fancy, 3.71
+personal, 3.71
+bloody, 3.71
+wise, 3.71
+not small, 3.71
+gooey, 3.7
+petite, 3.7
+strawberry, 3.7
+n't cheap, 3.7
+flavored, 3.69
+jalapeno, 3.69
+important, 3.69
+inside, 3.69
+bridal, 3.69
+not strong, 3.69
+baked, 3.68
+lemon, 3.68
+american, 3.68
+support, 3.68
+highend, 3.68
+bottomless, 3.68
+high, 3.67
+prime, 3.67
+tight, 3.67
+occasional, 3.67
+closer, 3.67
+residential, 3.67
+n't expensive, 3.67
+pricey, 3.65
+famous, 3.65
+pure, 3.65
+distinct, 3.65
+joint, 3.65
+social, 3.64
+large, 3.63
+iced, 3.63
+roasted, 3.63
+bigger, 3.63
+n't try, 3.63
+not cheap, 3.63
+n't ruin, 3.63
+not overcook, 3.63
+not overcooked, 3.63
+fine, 3.62
+asian, 3.62
+frequent, 3.62
+picky, 3.62
+condensed, 3.62
+endless, 3.62
+small, 3.61
+decent, 3.61
+crazy, 3.61
+balsamic, 3.61
+tropical, 3.61
+largest, 3.61
+insane, 3.61
+side, 3.6
+n't experience, 3.6
+blue, 3.59
+smaller, 3.59
+first, 3.59
+marinated, 3.59
+gigantic, 3.59
+crusty, 3.59
+wooden, 3.59
+n't drink, 3.59
+free, 3.58
+deep, 3.58
+veggie, 3.58
+mild, 3.58
+physical, 3.58
+n't eaten, 3.58
+full, 3.57
+sticky, 3.57
+larger, 3.57
+middle, 3.57
+comparable, 3.57
+sitdown, 3.57
+grilled, 3.56
+hefty, 3.56
+damn, 3.56
+n't judge, 3.56
+n't recall, 3.56
+not excellent, 3.56
+hot, 3.55
+big, 3.55
+entire, 3.55
+brown, 3.55
+old, 3.55
+individual, 3.55
+chunky, 3.55
+n't remember, 3.55
+newer, 3.54
+usual, 3.53
+early, 3.53
+giant, 3.53
+not rich, 3.53
+extra, 3.52
+unlimited, 3.52
+jumbo, 3.52
+cheapest, 3.51
+steep, 3.51
+powdered, 3.51
+not mention, 3.51
+not awesome, 3.51
+past, 3.5
+n't much, 3.5
+not talk, 3.5
+not talking, 3.5
+n't eat, 3.49
+continental, 3.49
+not hard, 3.49
+not delicious, 3.49
+n't require, 3.49
+n't describe, 3.49
+short, 3.48
+orange, 3.48
+n't like, 3.48
+last, 3.48
+loyal, 3.48
+cleaner, 3.48
+philly, 3.48
+crushed, 3.48
+late, 3.47
+future, 3.47
+n't best, 3.47
+drunken, 3.47
+n't fault, 3.47
+n't hard, 3.47
+not eaten, 3.47
+not feeling, 3.47
+long, 3.46
+takeout, 3.46
+thicker, 3.46
+not high, 3.46
+young, 3.45
+tiny, 3.45
+pre, 3.45
+not find, 3.45
+gay, 3.45
+thick, 3.44
+n't need, 3.44
+public, 3.44
+minor, 3.44
+n't stellar, 3.44
+aged, 3.43
+younger, 3.43
+n't handle, 3.43
+current, 3.42
+pink, 3.42
+same, 3.42
+peking, 3.42
+n't help, 3.42
+n't high, 3.42
+typical, 3.41
+heavy, 3.41
+n't find, 3.41
+not go, 3.41
+general, 3.4
+nearby, 3.4
+n't expecting, 3.4
+not try, 3.4
+n't amazing, 3.4
+n't done, 3.4
+common, 3.39
+improve, 3.39
+skinny, 3.39
+extend, 3.39
+n't awesome, 3.39
+original, 3.38
+retail, 3.38
+deluxe, 3.38
+fitting, 3.38
+not ideal, 3.38
+busy, 3.37
+standard, 3.37
+normal, 3.36
+chewy, 3.36
+clear, 3.36
+specific, 3.36
+adequate, 3.36
+straight, 3.36
+n't notice, 3.36
+basic, 3.35
+proper, 3.35
+recent, 3.35
+closest, 3.35
+hungry, 3.35
+adjacent, 3.35
+annual, 3.35
+n't feel, 3.35
+n't fantastic, 3.35
+not convenient, 3.35
+cheaper, 3.33
+overwhelming, 3.33
+thin, 3.32
+ready, 3.32
+similar, 3.32
+higher, 3.32
+aok, 3.32
+n't hit, 3.32
+togo, 3.31
+acceptable, 3.31
+primary, 3.31
+n't greatest, 3.31
+not drink, 3.31
+not outstanding, 3.31
+n't friendliest, 3.31
+actual, 3.3
+nicer, 3.3
+n't feeling, 3.3
+notorious, 3.3
+not exceptional, 3.3
+ordinary, 3.29
+upper, 3.29
+discounted, 3.29
+second, 3.29
+not amazing, 3.29
+n't play, 3.29
+cheesy, 3.28
+medical, 3.28
+not best, 3.28
+saved, 3.28
+slower, 3.28
+not fantastic, 3.28
+not eating, 3.27
+n't different, 3.27
+not fine, 3.27
+older, 3.26
+previous, 3.26
+biggest, 3.26
+not like, 3.26
+not much, 3.26
+not serve, 3.26
+not add, 3.26
+hard, 3.25
+save, 3.25
+low, 3.25
+not packed, 3.25
+initial, 3.24
+minimal, 3.24
+drunk, 3.24
+loose, 3.24
+n't spectacular, 3.24
+n't visit, 3.24
+not pack, 3.24
+n't packed, 3.24
+fat, 3.23
+n't serve, 3.23
+noticeable, 3.23
+n't sell, 3.23
+noted, 3.23
+not soft, 3.23
+not friendliest, 3.23
+additional, 3.22
+n't order, 3.22
+spotty, 3.22
+dense, 3.22
+not expecting, 3.22
+not greatest, 3.22
+random, 3.21
+n't add, 3.21
+limited, 3.2
+n't fit, 3.2
+n't choose, 3.19
+front, 3.18
+ok, 3.18
+major, 3.18
+sketchy, 3.18
+not sure, 3.18
+housekeeping, 3.18
+not different, 3.18
+expensive, 3.17
+difficult, 3.17
+not having, 3.17
+n't same, 3.17
+odd, 3.16
+rental, 3.16
+n't mention, 3.16
+n't consistent, 3.16
+want, 3.15
+bottom, 3.15
+not mean, 3.15
+n't mean, 3.15
+not stellar, 3.15
+accept, 3.14
+n't expect, 3.14
+not expect, 3.14
+n't charge, 3.14
+not creamy, 3.14
+n't have, 3.13
+sour, 3.13
+cut, 3.13
+not spectacular, 3.13
+n't ordered, 3.13
+n't consider, 3.13
+n't think, 3.12
+n't authentic, 3.12
+n't used, 3.12
+not need, 3.11
+n't save, 3.11
+alright, 3.1
+fatty, 3.1
+not ordering, 3.1
+not free, 3.1
+cheap, 3.09
+not bad, 3.09
+monthly, 3.09
+n't mind, 3.09
+stopped, 3.09
+n't buy, 3.09
+not sell, 3.09
+loud, 3.08
+n't finish, 3.08
+stop, 3.08
+n't know, 3.08
+not eat, 3.08
+n't sure, 3.08
+n't turn, 3.07
+strange, 3.06
+n't afford, 3.06
+exact, 3.05
+noisy, 3.05
+rough, 3.05
+n't lose, 3.05
+n't exciting, 3.05
+n't bad, 3.04
+runny, 3.04
+smallest, 3.04
+n't carry, 3.04
+not seen, 3.04
+miss, 3.03
+not order, 3.03
+lazy, 3.02
+shady, 3.02
+n't attentive, 3.02
+n't crispy, 3.02
+n't made, 3.02
+not liking, 3.02
+flat, 3.01
+tough, 3.01
+plastic, 3.01
+n't taste, 3.01
+n't leave, 3.01
+n't eating, 3.01
+leave, 3.0
+salty, 3.0
+forget, 3.0
+n't review, 3.0
+not hate, 3.0
+n't hate, 3.0
+greasy, 2.99
+messy, 2.99
+not better, 2.99
+forgot, 2.98
+n't enjoy, 2.98
+pretentious, 2.98
+n't rate, 2.98
+not hear, 2.97
+soso, 2.96
+female, 2.96
+broken, 2.96
+honor, 2.96
+not have, 2.95
+n't use, 2.95
+n't special, 2.95
+not exciting, 2.95
+n't impressive, 2.94
+n't memorable, 2.94
+n't stand, 2.93
+plain, 2.92
+not enough, 2.92
+n't open, 2.92
+not consistent, 2.92
+cold, 2.91
+n't check, 2.91
+not appeal, 2.91
+not appealing, 2.91
+weird, 2.9
+bitter, 2.9
+dingy, 2.9
+n't change, 2.9
+wet, 2.89
+steal, 2.89
+n't nice, 2.89
+n't able, 2.89
+n't justify, 2.89
+drop, 2.88
+confusing, 2.88
+n't hot, 2.88
+n't hear, 2.88
+n't read, 2.88
+n't suggest, 2.88
+n't get, 2.87
+not finish, 2.87
+reach, 2.86
+n't available, 2.86
+noticing, 2.86
+missed, 2.85
+n't put, 2.85
+n't flavorful, 2.85
+n't seen, 2.84
+n't pleasant, 2.84
+not charge, 2.84
+n't great, 2.83
+n't do, 2.83
+n't see, 2.83
+not nice, 2.83
+not special, 2.83
+not complete, 2.83
+n't touch, 2.82
+not memorable, 2.82
+n't appreciate, 2.82
+n't cold, 2.82
+n't hold, 2.81
+n't happy, 2.81
+overpriced, 2.8
+awkward, 2.8
+nonsmoking, 2.8
+not buy, 2.8
+not great, 2.79
+n't friendly, 2.79
+n't believe, 2.79
+not taste, 2.79
+confused, 2.78
+push, 2.78
+n't call, 2.78
+not flavorful, 2.78
+n't blame, 2.78
+not ok, 2.78
+n't match, 2.78
+n't serving, 2.78
+charged, 2.77
+generic, 2.77
+fishy, 2.77
+apologetic, 2.77
+resolve, 2.77
+n't enough, 2.77
+n't right, 2.77
+hate, 2.76
+missing, 2.76
+not authentic, 2.76
+not crisp, 2.76
+fake, 2.75
+edible, 2.75
+n't include, 2.75
+n't pick, 2.75
+n't tasty, 2.75
+pay, 2.74
+lack, 2.74
+n't want, 2.74
+n't make, 2.74
+outdated, 2.74
+not getting, 2.74
+not crispy, 2.74
+not okay, 2.74
+not handle, 2.74
+not personable, 2.74
+not impressive, 2.73
+n't helpful, 2.73
+n't better, 2.72
+not ordered, 2.72
+dead, 2.71
+messed, 2.71
+not include, 2.71
+not pick, 2.71
+n't complete, 2.71
+not figure, 2.71
+n't figure, 2.71
+subpar, 2.7
+not enjoy, 2.7
+n't busy, 2.69
+n't offer, 2.69
+not see, 2.69
+not open, 2.69
+slow, 2.68
+underwhelming, 2.68
+n't warm, 2.68
+not cool, 2.68
+n't take, 2.67
+not know, 2.67
+not serving, 2.67
+not get, 2.66
+not same, 2.66
+not attentive, 2.64
+not terrible, 2.64
+n't allow, 2.64
+not appreciate, 2.64
+threw, 2.63
+boring, 2.63
+weak, 2.63
+inconsistent, 2.63
+not full, 2.63
+not making, 2.63
+n't full, 2.62
+n't fill, 2.62
+n't bring, 2.61
+not warm, 2.61
+n't cut, 2.61
+horrendous, 2.6
+nonexistent, 2.6
+not pleasant, 2.6
+n't ordering, 2.6
+not match, 2.6
+n't awful, 2.6
+n't come, 2.6
+n't accept, 2.59
+not put, 2.59
+n't spend, 2.59
+not hot, 2.58
+negative, 2.57
+n't terrible, 2.57
+dirty, 2.56
+avoid, 2.56
+n't good, 2.56
+annoying, 2.56
+not available, 2.56
+not offer, 2.56
+n't ready, 2.55
+not tasty, 2.55
+not leave, 2.55
+shitty, 2.54
+n't tell, 2.54
+n't keep, 2.54
+not right, 2.54
+not allow, 2.54
+not busy, 2.53
+n't split, 2.53
+watery, 2.52
+sad, 2.52
+inattentive, 2.51
+notify, 2.51
+n't offered, 2.51
+n't cook, 2.5
+bad, 2.49
+empty, 2.49
+n't say, 2.49
+n't horrible, 2.49
+not believe, 2.49
+n't ask, 2.49
+n't taken, 2.49
+not able, 2.48
+n't write, 2.48
+wrong, 2.47
+incorrect, 2.47
+n't understand, 2.47
+not cold, 2.47
+not horrible, 2.47
+lackluster, 2.46
+not use, 2.46
+not seasoned, 2.46
+not knowledgeable, 2.46
+undercooked, 2.45
+not impressed, 2.45
+n't seasoned, 2.44
+unfriendly, 2.43
+not clear, 2.43
+n't fresh, 2.42
+not take, 2.42
+n't rude, 2.42
+not care, 2.42
+n't care, 2.42
+not friendly, 2.4
+n't gotten, 2.4
+not enjoyable, 2.4
+not good, 2.39
+ridiculous, 2.39
+n't pay, 2.39
+n't doing, 2.39
+mediocre, 2.38
+uncomfortable, 2.38
+not make, 2.38
+n't getting, 2.38
+not accept, 2.38
+ruin, 2.37
+lukewarm, 2.37
+not using, 2.37
+your, 2.36
+n't did, 2.36
+wasting, 2.36
+n't refill, 2.36
+mushy, 2.35
+n't provide, 2.35
+not suggest, 2.35
+crappy, 2.34
+not bring, 2.34
+rubbery, 2.33
+lame, 2.33
+not paying, 2.33
+not screw, 2.33
+n't screw, 2.33
+not call, 2.32
+not want, 2.31
+not stand, 2.31
+sloppy, 2.3
+disappointed, 2.3
+not appetizing, 2.3
+not gotten, 2.3
+filthy, 2.29
+not do, 2.29
+not visit, 2.29
+soggy, 2.28
+demand, 2.28
+n't place, 2.28
+bland, 2.27
+n't give, 2.26
+atrocious, 2.26
+cancelled, 2.26
+not spend, 2.26
+not offered, 2.26
+not pay, 2.25
+not say, 2.25
+n't given, 2.25
+n't making, 2.25
+disappointing, 2.24
+overcooked, 2.24
+n't clean, 2.24
+not taking, 2.24
+inedible, 2.23
+n't trust, 2.23
+not helpful, 2.22
+not happy, 2.22
+not ready, 2.21
+n't worth, 2.2
+not did, 2.2
+n't deliver, 2.2
+n't got, 2.19
+poor, 2.17
+stupid, 2.17
+miserable, 2.17
+n't cover, 2.16
+not tell, 2.16
+lousy, 2.15
+refund, 2.15
+cancel, 2.14
+nasty, 2.14
+unpleasant, 2.14
+n't recommend, 2.12
+not professional, 2.12
+n't run, 2.12
+lost, 2.11
+stale, 2.11
+not clean, 2.11
+n't waste, 2.11
+not doing, 2.11
+tasteless, 2.1
+not understand, 2.1
+not rude, 2.07
+ruined, 2.06
+n't receive, 2.06
+n't fix, 2.06
+waste, 2.04
+not fix, 2.03
+not fresh, 2.02
+gross, 2.01
+unprofessional, 2.0
+not giving, 2.0
+n't send, 2.0
+not worthy, 2.0
+not worth, 1.98
+flavorless, 1.97
+not provide, 1.97
+terrible, 1.95
+awful, 1.92
+not spending, 1.9
+pathetic, 1.89
+not keep, 1.89
+not give, 1.88
+not waste, 1.88
+disgusting, 1.87
+n't answer, 1.87
+horrible, 1.86
+not given, 1.86
+n't received, 1.85
+rude, 1.82
+wasted, 1.8
+not interested, 1.8
+not willing, 1.79
+incompetent, 1.77
+not acceptable, 1.77
+not receive, 1.72
+not receiving, 1.72
+not edible, 1.67
+not visiting, 1.66
+not recommend, 1.64
+n't return, 1.63
+worst, 1.61
+worse, 1.6
+n't deserve, 1.57
+not support, 1.55
+not answer, 1.54
+n't honor, 1.52
+not received, 1.51
+not return, 1.45
+not honor, 1.39
+not recommending, 1.32
+n't refund, 1.26
+not deserve, 1.24
+not refund, 1.09

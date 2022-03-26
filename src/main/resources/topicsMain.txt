@@ -1,0 +1,6 @@
+location, location, place, spot, room, building, table, restaurant, area, interior, exterior, access, arena, stadium, bar, beach, pub, venue, indoors, outdoors, rooftop, courtyard, balcony
+ambiance, ambiance, atmosphere, decor, music, event, experience, noise, heat, cold, scenery, vibe, acoustic, audience, view, mood
+service, service, waiter, staff, book, employee, manager, complaint, order, bartender, server, worker
+food, food, fries, menu, meat, chicken, cake, dessert, pizza, ice cream, sandwich, rice, sushi, cheese, corn, crema, burger, chocolate, kebab, pastry, dairy, watermelon, puree, yogurt, steak, spice, salt, fish, taste, texture, flavor, breakfast, lunch, starter, appetizer, fruit, apple, orange, lemon, cherry, tomato, asparagus, potato, onion, salad, tofu, bagel, muffin, falafel, omlette, bowl, basket, cereal, panini, spaghetti, tortilla, burito, yoghurt, naan, samosa, curry, oyster, lobster,  vinegar, mustard
+drinks, drink, water, beer, coffee, tea, wine, milk, alcohol, bottle, booze, cafe, cocktail, whiskey, rum, vodka, refill
+price, price, buy, bill, check, cost, cheap, expensive, atm, commission, tip, deal, tax

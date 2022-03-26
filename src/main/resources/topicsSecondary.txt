@@ -1,0 +1,21 @@
+taste, texture, sensation, sweetness, flavor, crunch, sour
+sweets, chocolate, cookie, cream, dessert, ice cream, sweet, sugar, cake, tart
+eating, appetite, buffet, breakfast, eating, bite, portion
+starters, starter, appetizer, soup, tapa, sampler
+fruits, fruit, apple, pineapple, strawberry, cherry, grape, orange, blueberry, lemon, peach
+vegetables, vegetable, spinach, asparagus, tomato, potato, onion, carrot, broccoli, lettuce, salad, spinach, cabbage
+asian, rice, dumpling, kim, noodle, tofu
+meat, meat, beef, steak, filet, lamb, pig, duck
+pastry, pastry, croissant, bagel, muffin
+middle eastern, baklava, falafel, kebab, shawarma
+food recipients, basket, bowl, casserole, plate
+breakfast, biscuit, oatmeal, omelette, toast, cereal
+fast food, burger, cheeseburger, fries, hamburger, hotdog, fries
+italian, pizza, calzone, panini, ravioli, risotto, spaghetti
+mexican, chorizo, tortilla, nacho, guacamole, burrito
+dairy, butter, cheese, egg, yoghurt
+indian, samosa, pakora, naan, paneer
+seafood, oyster, lobster, cod, clam, crab
+spices, pepper, mustard, mayo, pepper, vinegar, garlic
+
+
