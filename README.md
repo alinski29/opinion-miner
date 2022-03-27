@@ -26,9 +26,11 @@ This work builds upon that by combining this approach with word vectors ([word2v
 import com.github.alinski.opinion.miner.OpinionMiner._
 
 val review = """
-    |  The food was fantastic, but the service was really slow, although the waiter was very knowledgeable.
+    |  The food was fantastic, but the service was really slow, 
+    |  although the waiter was very knowledgeable.
     |  The pumpkin soup was delightful, perfect for the fall season.
-    |  Impressive rooftop and a terrific view. Prices were reasonable.
+    |  Impressive rooftop and a terrific view. 
+    |  The bill was reasonable, prices were okay overall.
   """.stripMargin
 
 val opinions = OpinionMiner(review)
@@ -41,7 +43,7 @@ opinions.foreach(println)
 (Aspect(view ∈ [ambiance]), Sentiment(Impressive, 4.19))
 (Aspect(view ∈ [ambiance]), Sentiment(terrific, 4.54))
 (Aspect(rooftop ∈ [location]), Sentiment(Impressive, 4.19))
-
+(Aspect(bill ∈ [price]), Sentiment(reasonable, 4.23))
 ```
 See [example](https://github.com/alinski29/opinion-miner/blob/master/src/main/scala/com/github/alinski/opinion/miner/ExampleApp.scala)
 
