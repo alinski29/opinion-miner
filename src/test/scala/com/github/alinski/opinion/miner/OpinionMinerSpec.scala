@@ -23,7 +23,7 @@ class OpinionMinerSpec extends AnyFlatSpec with Matchers {
   "Group by topic" should "work" in {
     val phrasesByTopic = phrases.groupByTopic
     phrasesByTopic.keys.toList.sorted shouldEqual List("food", "other", "service")
-    phrasesByTopic("food").map(_.aspect.word) shouldEqual List("food", "food", "food", "cheese")
+    phrasesByTopic("food").map(_.aspect.word) shouldEqual List("food", "food", "food", "cocktail cheese", "cheese")
   }
 
 }

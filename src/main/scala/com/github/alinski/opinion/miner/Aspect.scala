@@ -34,8 +34,25 @@ object Aspect {
     }
   }
   private def assignTopics(word: String, threshold: Double): List[String] = {
-    val similarity = Vectorization.topicSimilarity(word, mainTopics)
-    val topics = Aspect.sortTopics(similarity, threshold)
+    val topics = word.split(" ").toList match {
+      case a :: b :: Nil => {
+        val aSim = Vectorization.topicSimilarity(a, mainTopics).filter(_._2 >= threshold).toList.sortBy(_._2).reverse
+        val bSim = Vectorization.topicSimilarity(b, mainTopics).filter(_._2 >= threshold).toList.sortBy(_._2).reverse
+        (aSim, bSim) match {
+          case (x, y) if x.isEmpty && y.nonEmpty => y.map(_._1)
+          case (x, y) if x.nonEmpty && y.isEmpty => x.map(_._1)
+          case (x, y) if x.nonEmpty && y.nonEmpty =>
+            if (x.head._1 == y.head._1)  {
+              x.map(_._1)
+            } else if (x.head._2 >= y.head._2){
+              x.map(_._1)
+            } else {
+              y.map(_._1)
+            }
+        }
+      }
+      case a :: Nil => Aspect.sortTopics(Vectorization.topicSimilarity(a, mainTopics), threshold)
+    }
     topics match {
       case x :: xs if x == "food" =>
         x :: Aspect.sortTopics(Vectorization.topicSimilarity(word, secondaryTopics), threshold)
