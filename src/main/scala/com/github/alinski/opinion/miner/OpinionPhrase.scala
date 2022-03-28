@@ -27,7 +27,7 @@ object OpinionMiner {
   }
 
   implicit class OpinionPhrasesOps(phrases: List[OpinionPhrase]) {
-    def groupByTopic = {
+    def groupByTopic: Map[String, List[OpinionPhrase]] = {
       phrases
         .map(phrase => (phrase.aspect.topics.head, phrase.aspect, phrase.sentiment))
         .groupBy(_._1)

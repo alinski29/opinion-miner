@@ -1,18 +1,9 @@
 package com.github.alinski.opinion.miner
 
 import scala.io.Source
-import java.io.{File, FileInputStream}
-import java.util.zip.GZIPInputStream
+import java.io.File
 
 object Store {
-
-//  lazy val wordVectors: Map[String, List[Double]] = {
-//    lazy val is = new GZIPInputStream(new FileInputStream(getClass.getResource("/words.vec.tar.gz").getPath))
-//    (for (line <- Source.fromInputStream(is).getLines() if line.length > 100) yield {
-//      val splits = line.split(" ")
-//      (splits.head, splits.tail.map(_.toDouble).toList)
-//    }).toMap
-//  }
 
   lazy val wordVectors: Map[String, List[Double]] = {
     (for (line <- open("/words.vec").read if line.length > 100) yield {

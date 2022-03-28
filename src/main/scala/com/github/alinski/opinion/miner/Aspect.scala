@@ -4,10 +4,6 @@ import Store.{mainTopics, secondaryTopics, wordVectors}
 
 trait Categorical {
   val topics: List[String]
-//  def topicSimilarity(
-//      topics: Map[String, List[String]],
-//      vectors: Map[String, List[Double]]
-//  ): Map[String, Double]
 }
 
 case class Aspect(word: String, lemma: String, pos: Option[String])
