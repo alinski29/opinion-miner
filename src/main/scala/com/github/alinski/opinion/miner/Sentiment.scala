@@ -2,8 +2,10 @@ package com.github.alinski.opinion.miner
 
 import Store.{sentimentScores, wordVectors}
 
-case class Sentiment(word: String, lemma: String, pos: Option[String]) extends AbstractWord with Vectorization {
-  lazy val vector: List[Double] = wordVectors.getOrElse(lemma, List())
+case class Sentiment(word: String, lemma: String, pos: Option[String])
+    extends AbstractWord
+    with Vectorization {
+  lazy val vector: Vector[Double] = wordVectors.getOrElse(lemma, Vector())
   override def closestNeighbors(n: Int = 10, threshold: Double = 0.65): List[(Sentiment, Double)] =
     Vectorization.closestNeighbors(this.lemma, n, threshold).map(x => (Sentiment(x._1), x._2))
   lazy val score: Option[Double] = {

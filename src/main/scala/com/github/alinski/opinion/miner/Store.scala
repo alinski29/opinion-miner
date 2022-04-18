@@ -5,10 +5,10 @@ import java.io.File
 
 object Store {
 
-  lazy val wordVectors: Map[String, List[Double]] = {
+  lazy val wordVectors: Map[String, Vector[Double]] = {
     (for (line <- open("/words.vec").read if line.length > 100) yield {
       val splits = line.split(" ")
-      (splits.head, splits.tail.map(_.toDouble).toList)
+      (splits.head, splits.tail.map(_.toDouble).toVector)
     }).toMap
   }
 

@@ -10,7 +10,7 @@ case class Aspect(word: String, lemma: String, pos: Option[String])
     extends AbstractWord
     with Vectorization
     with Categorical {
-  lazy val vector: List[Double] = wordVectors.getOrElse(lemma, List())
+  lazy val vector: Vector[Double] = wordVectors.getOrElse(lemma, Vector())
   lazy val topics: List[String] = Aspect.assignTopics(lemma, 0.70)
 
   override def closestNeighbors(n: Int = 10, threshold: Double = 0.65): List[(Aspect, Double)] =
@@ -32,15 +32,17 @@ object Aspect {
   private def assignTopics(word: String, threshold: Double): List[String] = {
     val topics = word.split(" ").toList match {
       case a :: b :: Nil => {
-        val aSim = Vectorization.topicSimilarity(a, mainTopics).filter(_._2 >= threshold).toList.sortBy(_._2).reverse
-        val bSim = Vectorization.topicSimilarity(b, mainTopics).filter(_._2 >= threshold).toList.sortBy(_._2).reverse
+        val aSim =
+          Vectorization.topicSimilarity(a, mainTopics).filter(_._2 >= threshold).toList.sortBy(_._2).reverse
+        val bSim =
+          Vectorization.topicSimilarity(b, mainTopics).filter(_._2 >= threshold).toList.sortBy(_._2).reverse
         (aSim, bSim) match {
           case (x, y) if x.isEmpty && y.nonEmpty => y.map(_._1)
           case (x, y) if x.nonEmpty && y.isEmpty => x.map(_._1)
           case (x, y) if x.nonEmpty && y.nonEmpty =>
-            if (x.head._1 == y.head._1)  {
+            if (x.head._1 == y.head._1) {
               x.map(_._1)
-            } else if (x.head._2 >= y.head._2){
+            } else if (x.head._2 >= y.head._2) {
               x.map(_._1)
             } else {
               y.map(_._1)
